@@ -51,9 +51,9 @@ function App() {
   return (
     <div id='App_container'>
       <Header />
-      <div class='input-group mb-3'>
+      <div className='input-group mb-3'>
         <button
-          class='btn btn-outline-secondary'
+          className='btn btn-outline-secondary'
           type='button'
           id='button-addon1'
           onClick={handleSearchInformation}
@@ -62,7 +62,7 @@ function App() {
         </button>
         <input
           type='text'
-          class='form-control'
+          className='form-control'
           placeholder='Enter City Name'
           aria-label='Example text with button addon'
           aria-describedby='button-addon1'

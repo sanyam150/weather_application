@@ -20,3 +20,11 @@
   width: fit-content;
   margin: auto;
 }
+
+.form-control:focus {
+  box-shadow: 0 0 0 1.5px rgba(13, 202, 240) !important;
+}
+
+.btn:hover {
+  background-color: rgba(13, 202, 240) !important;
+}

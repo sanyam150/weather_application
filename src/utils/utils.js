@@ -1,3 +1,4 @@
+import React from 'react';
 import { HiSun } from 'react-icons/hi';
 import { IoRainySharp } from 'react-icons/io5';
 import { FaCloud } from 'react-icons/fa';
