@@ -1,0 +1,17 @@
+.card_wrapper {
+  display: flex;
+}
+
+.card_element_margin {
+  margin: 5px;
+  font-size: 1.5rem;
+  min-width: 160px;
+}
+
+.card_element_margin span {
+  margin: 1vw;
+}
+
+.style_icons {
+  color: rgb(13, 202, 240);
+}
