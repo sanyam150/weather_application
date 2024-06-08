@@ -44,3 +44,21 @@
    ```sh
    npm run test:coverage
    ```
+
+   Screenshots
+
+   1. Application
+      
+      ![weather_app_1](https://github.com/sanyam150/weather_application/assets/102587941/4031b3de-757e-47ae-94d0-b9198b7fa135)
+
+      ![weather_app_2](https://github.com/sanyam150/weather_application/assets/102587941/33cb1324-5cc1-45c5-ba1a-a72b4f390018)
+
+   2. Test Coverage Reports
+
+      ![weather_app_3](https://github.com/sanyam150/weather_application/assets/102587941/a084227f-8a4b-4674-bae0-c087f7b38b8b)
+
+      ![weather_app_4](https://github.com/sanyam150/weather_application/assets/102587941/d07beb0f-deeb-44d9-9773-6f300f3ce732)
+
+
+
+
