@@ -10,7 +10,7 @@
 
 2. **Open the project** in VS Code.
 
-3. **Create an API key** on this website: [OpenWeatherMap API](https://openweathermap.org/api)
+3. **Create an API key** on this website: https://home.openweathermap.org/users/sign_in
 
 4. **Create a `.env` file** in the root directory of the project and add the API key:
 
